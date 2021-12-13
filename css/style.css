@@ -1,6 +1,5 @@
 header{
     /* min-height: 100px; */
-    border: 1px solid red;
 }
 
 .logo{
@@ -14,8 +13,9 @@ header{
 
 .jumbotron{
     min-height: 500px;
-    border: 1px solid red;
-   
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
 }
-
 
