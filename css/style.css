@@ -3,6 +3,10 @@ header{
     border: 1px solid red;
 }
 
+.top-header{
+    min-height: 50px;
+}
+
 
 .jumbotron{
     min-height: 500px;
