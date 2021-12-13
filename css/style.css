@@ -3,8 +3,8 @@ header{
     border: 1px solid red;
 }
 
-.top-header{
-    min-height: 50px;
+.logo{
+    height: 50px;
 }
 
 
