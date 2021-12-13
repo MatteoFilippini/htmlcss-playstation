@@ -4,10 +4,7 @@
     height: 20px;
 }
 
-#return{
-    width: 200px;
-    height: 50px;
-}
+
 
 .jumbotron{
     min-height: 500px;
@@ -17,3 +14,11 @@
     background-position-x: center;
 }
 
+.image{
+    width: 100%;
+    height: 100px;
+}
+
+section{
+    margin: 50px 0;
+}
