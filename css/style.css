@@ -62,8 +62,17 @@ section{
     padding: 50px 0;
 }
 
+.now{
+    background-color: blue;
+    padding: 50px 0;
+}
+
 #plus{
-    width: 50%;
+    max-width: 30%;
+}
+
+#now{
+    max-width: 30%;
 }
 
 .sale{
