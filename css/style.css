@@ -50,24 +50,22 @@ section{
 }
 
 /* ABBONAMENTI */
-
-
-.now{
-    background-color: blue;
-    padding: 50px 0;
-}
-
 #plus{
     max-width: 300px;
 }
 
 #plus-block{
-    max-height: 400px;
+    max-height: 600px;
     width: 100%;
 }
 
 #now{
     max-width: 30%;
+}
+
+#now-block{
+    max-height: 800px;
+    width: 100%;
 }
 
 .sale{
