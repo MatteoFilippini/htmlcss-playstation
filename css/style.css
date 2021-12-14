@@ -56,3 +56,13 @@ section{
     border-radius: 20px;
 }
 
+/* ABBONAMENTI */
+.plus{
+    background-color: rgb(136, 136, 136);
+    padding: 50px 0;
+}
+
+#plus{
+    width: 50%;
+}
+
