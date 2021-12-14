@@ -10,8 +10,12 @@ section{
 
 
 /* HEADER */
-#logo-sony{
+/* .header-logo-sony{
     height: 30px;
+} */
+
+#logo-sony{
+    height: 20px;
 }
 
 /* JUMBOTRON */
