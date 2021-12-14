@@ -40,8 +40,7 @@ section{
 }
 
 .carousel{
-    height: 200px;
-    width: 200px;
+    max-height: 100px;
 }
 
 /* IMAGES */
