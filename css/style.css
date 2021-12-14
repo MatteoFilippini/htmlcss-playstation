@@ -55,15 +55,17 @@ section{
 }
 
 #plus-block{
+    min-height: 400px;
     max-height: 600px;
     width: 100%;
 }
 
 #now{
-    max-width: 30%;
+    max-width: 300px;
 }
 
 #now-block{
+    min-height: 400px;
     max-height: 800px;
     width: 100%;
 }
