@@ -1,6 +1,6 @@
 /* UTILITIES */
 section{
-    margin: 50px 0;
+    padding: 50px 0;
 }
 
 .card{
@@ -10,9 +10,7 @@ section{
 
 
 /* HEADER */
-/* .header-logo-sony{
-    height: 30px;
-} */
+
 
 #logo-sony{
     height: 20px;
@@ -30,6 +28,15 @@ section{
     background-image: url(../img/jumbo-bg.png);
 }
 
+/* .jumbotron{
+    min-height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+
+
+
 #middle-jumbo{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg); 
 }
@@ -41,7 +48,7 @@ section{
 #takes{
     height: 50%;
     width: 50%;
-}
+} */
 
 
 /* DEVICE */
