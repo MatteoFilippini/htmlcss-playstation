@@ -50,10 +50,7 @@ section{
 }
 
 /* ABBONAMENTI */
-.plus{
-    background-color: rgb(136, 136, 136);
-    padding: 50px 0;
-}
+
 
 .now{
     background-color: blue;
@@ -61,7 +58,12 @@ section{
 }
 
 #plus{
-    max-width: 30%;
+    max-width: 300px;
+}
+
+#plus-block{
+    max-height: 400px;
+    width: 100%;
 }
 
 #now{
