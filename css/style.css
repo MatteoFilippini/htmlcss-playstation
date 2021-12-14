@@ -1,13 +1,15 @@
+#logo-sony{
+    height: 30px;
+}
 
-
-#logo{
-    height: 20px;
+#return{
+    /* width: 100%; */
+    /* height: 100px; */
 }
 
 
-
 .jumbotron{
-    min-height: 500px;
+    min-height: 600px;
     background-image: url(../img/jumbo-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +18,7 @@
 
 .image{
     width: 100%;
-    height: 100px;
+    height: 150px;
 }
 
 section{
