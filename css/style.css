@@ -32,21 +32,37 @@ section{
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg); 
 }
 
-
-/* DEVICE */
+/* IMAGE */
 .image{
     width: 100%;
     height: 150px;
 }
 
+/* DEVICE */
 .carousel{
-    background-image: url(../img/playstation-5-thumb.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
     min-height: 200px;
     max-height: 300px;
 }
+
+#play-5{
+    background-image: url(../img/playstation-5-thumb.png);
+}
+#controller{
+    background-image: url(../img/joypad-thumb.png);
+}
+#headset{
+    background-image: url(../img/headset-thumb.png);
+}
+#remote{
+    background-image: url(../img/remote-thumb.png);
+}
+#camera{
+    background-image: url(../img/camera-thumb.jpg);
+}
+
 
 /* IMAGES */
 .images img{
