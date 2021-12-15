@@ -11,6 +11,10 @@ section{
     padding: 30px 0;
 }
 
+.bordi{
+    border-radius: 50px;
+}
+
 /* HEADER */
 
 
@@ -24,6 +28,10 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
+}
+
+.jumbo-btn{
+    background-color: rgb(255, 81, 0);
 }
 
 #top-jumbo{
