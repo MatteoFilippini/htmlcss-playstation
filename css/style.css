@@ -38,6 +38,10 @@ section{
     height: 150px;
 }
 
+.images img{
+    border-radius: 20px;
+}
+
 /* DEVICE */
 .carousel{
     background-repeat: no-repeat;
@@ -63,11 +67,6 @@ section{
     background-image: url(../img/camera-thumb.jpg);
 }
 
-
-/* IMAGES */
-.images img{
-    border-radius: 20px;
-}
 
 /* ABBONAMENTI */
 #plus{
@@ -100,4 +99,25 @@ footer{
 
 #sie{
     width: 200px;
+}
+
+/* SOCIAL */
+.social-image{
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#twitter{
+    background-image: url(../img/twitter.jpg);
+}
+#facebook{
+    background-image: url(../img/facebook.jpg);
+}
+#instagram{
+    background-image: url(../img/instagram.jpg);
+}
+#youtube{
+    background-image: url(../img/youtube.png);
 }
