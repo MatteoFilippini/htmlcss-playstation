@@ -40,7 +40,12 @@ section{
 }
 
 .carousel{
-    max-height: 100px;
+    background-image: url(../img/playstation-5-thumb.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    min-height: 200px;
+    max-height: 300px;
 }
 
 /* IMAGES */
