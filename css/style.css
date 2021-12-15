@@ -67,6 +67,12 @@ section{
     background-image: url(../img/camera-thumb.jpg);
 }
 
+/* SALES */
+.sales-image{
+    width: 300px;
+    height: 300px;
+}
+
 
 /* ABBONAMENTI */
 #plus{
@@ -89,21 +95,10 @@ section{
     width: 100%;
 }
 
-.sale{
-    max-width: 200px;
-}
-
-footer{
-    min-height: 800px;
-}
-
-#sie{
-    width: 200px;
-}
-
 /* SOCIAL */
 .social-image{
-    min-height: 200px;
+    height: 200px;
+    width: 200px;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -120,4 +115,13 @@ footer{
 }
 #youtube{
     background-image: url(../img/youtube.png);
+}
+
+/* FOOTER */
+footer{
+    min-height: 800px;
+}
+
+#sie{
+    width: 200px;
 }
